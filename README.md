@@ -2,4 +2,6 @@
 
 ## AI model colors a black and white image into color
 
-![image](https://github.com/user-attachments/assets/160b3308-e5d8-4aac-abcb-03c81f02be4c)
+https://github.com/user-attachments/assets/f0916861-7963-4b5a-bfc5-1addac3da46e
+
+
