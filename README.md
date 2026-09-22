@@ -1,5 +1,4 @@
-# Prism for your monochrome
-# AI Image Colorization System
+# Prism for your monochrome - AI Image Colorization System
 
 An AI-based image colorization system that transforms monochrome images into color images using **Deep Learning, GANs, and U-Net architectures**.
 
